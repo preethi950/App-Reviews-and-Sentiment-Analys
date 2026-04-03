@@ -8,13 +8,17 @@ Collect user reviews from the Google Play Store
 Analyze customer feedback using NLP
 Classify sentiments into positive/negative categories
 Visualize sentiment distribution across apps
+
 🛠 Tech Stack
+
 Python
 Pandas & NumPy – Data processing
 Google Play Scraper – Data collection
 Hugging Face Transformers – Sentiment analysis
 Plotly – Data visualization
+
 📂 Dataset
+
 Data is collected dynamically using:
 google_play_scraper
 Source: Multiple Apps from Google Play Store
@@ -24,6 +28,7 @@ Ratings
 Timestamps
 ⚙️ Project Workflow
 1️⃣ Data Collection
+
 Extracted user reviews from different apps using Google Play Scraper
 2️⃣ Data Preprocessing
 Cleaned and structured text data
